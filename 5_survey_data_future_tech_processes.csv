@@ -1,0 +1,11 @@
+Database Name,Database Count,Language Name,Language Count,Platform Name,Platform Count,Framework Name,Framework Count
+PostgreSQL,12193,JavaScript,11541,Amazon Web Services (AWS),10516,React,8223
+Redis,6384,SQL,10944,Microsoft Azure,6380,Node.js,8096
+SQLite,6295,TypeScript,10437,Google Cloud,5431,Next.js,4458
+MySQL,6204,HTML/CSS,10016,Cloudflare,4219,ASP.NET CORE,4166
+MongoDB,5618,Python,8919,Digital Ocean,2908,Vue.js,3903
+Microsoft SQL Server,4345,Go,5661,Vercel,2776,Angular,3309
+Elasticsearch,3665,Rust,5597,Firebase,2720,Express,3216
+MariaDB,3078,C#,5590,Hetzner,1577,FastAPI,2823
+Dynamodb,2154,Bash/Shell (all shells),5582,Supabase,1368,Spring Boot,2674
+Supabase,1623,Java,4048,Netlify,1267,Svelte,2559
